@@ -1,6 +1,6 @@
 :root {
     --primaryText: #fff;
-    --secondaryText: #89b4fd;
+    --secondaryText: rgb(141, 56, 143);
     --primary: rgba(190, 71, 113, 0.6);
     --secondary: rgba(54, 58, 134, 0.6); 
     --buttonHover: rgba(130, 39, 146, 0.4);
@@ -88,7 +88,7 @@ img {
 }
 
 .name strong {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(130, 39, 146, 0.15);
 }
 
 .section-header {
